@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day 1: What is AWS?
 
 **Today’s goal:** Understand what AWS is in the simplest way possible.
@@ -87,6 +88,7 @@ Even if you’re not a tech person (yet):
 - You can **rent computing power, storage, and tools** from it
 - It’s used to run **websites, apps, games, and more**
 - You **pay only for what you use**
-- You can **start learning it with no experience**
-
+- You can **start learning it with no experiencees
 ---
+=======
+
