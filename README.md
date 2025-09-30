@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # Day 1: What is AWS?
 
 **Today’s goal:** Understand what AWS is in the simplest way possible.
 
 ---
-
 ## ✅ What is AWS?
 
 AWS stands for **Amazon Web Services**.
@@ -20,8 +18,6 @@ You don’t build your own power plant at home. You just use electricity when yo
 AWS works the same way — you use computing power, storage, or tools when you need them and pay only for what you use.
 
 ---
-
-
 ## 🔍 What Can You Do with AWS?
 
 You can:
@@ -36,15 +32,12 @@ You can:
 All without needing your own physical computer or server.
 
 ---
-
-
 ## 🌍 How Big is AWS?
 
 AWS is used by millions of people and companies like **Netflix, NASA, and BMW**.
 It has **data centers all around the world** so it can work fast, no matter where you live.
 
 ---
-
 ## 💡 Key Terms (Simple Definitions)
 
 | Term          | What it Means                                      |
@@ -55,7 +48,6 @@ It has **data centers all around the world** so it can work fast, no matter wher
 | Pay-as-you-go | Only pay when you use it — like a phone bill     |
 
 ---
-
 ## 💻 What Makes AWS Special?
 
 - 🟢 No need to buy any computer hardware
@@ -65,10 +57,6 @@ It has **data centers all around the world** so it can work fast, no matter wher
 - 🟢 Free tier available for learning and testing
 
 ---
-
-
-
-
 ## 🎯 Why Should YOU Learn AWS?
 
 Even if you’re not a tech person (yet):
@@ -79,9 +67,6 @@ Even if you’re not a tech person (yet):
 - It’s a top skill in today’s job market
 
 ---
-
-
-
 ## 📝 Summary
 
 - **AWS = Amazon’s cloud platform**
